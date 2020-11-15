@@ -1,0 +1,10 @@
+cython
+imageai
+keras==2.3.0
+keyboard
+mss
+opencv-python
+pillow
+pygame
+pywin32
+tensorflow==1.15.3
